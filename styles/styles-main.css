@@ -1,0 +1,25 @@
+/*Estilos header*/
+header{
+    text-align: center;
+    background-color: #ff2222;
+    color: white;
+}
+h1{
+    font-size: 3em;
+}
+/* Estilos main parte */
+main{
+    width: 87%;
+    margin: 18px auto;
+    font-weight: 700;
+    font-size: 1.9em;
+}
+#explicacion ol li{
+
+    background-color: yellowgreen;
+    color: wihte;
+}
+div.resultado{
+    margin: 20px auto;
+    width: 50%; 
+}
